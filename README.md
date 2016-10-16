@@ -1,1 +1,0 @@
-# leaflet-drag-and-drop
